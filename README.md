@@ -9,9 +9,9 @@ The Breast Cancer project focuses on visualizing and interpreting deep learning 
 
 
 ## About the Dataset
--- 1st column: MIAS database reference number.
+- 1st column: MIAS database reference number.
 
--- 2nd column: Character of background tissue: F Fatty ,G Fatty-glandular ,D Dense-glandular
+- 2nd column: Character of background tissue: F Fatty ,G Fatty-glandular ,D Dense-glandular
 
 -- 3rd column: Class of abnormality present: CALC Calcification ,CIRC Well-defined/circumscribed masses ,SPIC Spiculated masses ,MISC Other, ill-defined masses ,ARCH Architectural distortion ,ASYM Asymmetry ,NORM Normal
 
