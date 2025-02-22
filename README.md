@@ -1,5 +1,5 @@
 # Breast Cancer
 
-| Image 1 | Image 2 | Image 3 |
-|---------|---------|---------|
+| Sample | Saliency Map | Grad-CAM | Grad-CAM ++ |
+|---------|---------|---------|---------|
 | ![Alt text](results/sample.png) | ![Alt text](results/Saliency.png) | ![Alt text](results/Gradcam.png) | ![Alt text](results/Gradcam++.png) |
