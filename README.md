@@ -8,6 +8,7 @@
 The Breast Cancer project focuses on visualizing and interpreting deep learning models applied to breast cancer diagnosis. It utilizes techniques like Saliency Maps, Grad-CAM, and Grad-CAM++ to highlight regions in medical images that influence model predictions.
 
 
+
 ## About the Dataset
 - 1st column: MIAS database reference number.
 
@@ -21,3 +22,9 @@ The Breast Cancer project focuses on visualizing and interpreting deep learning 
 
 - 7th column: Approximate radius (in pixels) of a circle enclosing the abnormality.
 
+
+
+## The structure of the malignant and benign:
+- Benign masses have a circular or oval shape, while malignant masses are irregular in shape and contain small, needle-like masses.
+
+![Alt text](Description/structure.png)
