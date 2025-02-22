@@ -24,9 +24,10 @@ The Breast Cancer project focuses on visualizing and interpreting deep learning 
 
 
 
-## The structure of the malignant and benign:
-- Benign masses have a circular or oval shape, while malignant masses are irregular in shape and contain small, needle-like masses.
+## The Structure of Malignant and Benign Tumors
+- Benign masses typically have a circular or oval shape, whereas malignant masses are irregular and contain small, needle-like structures.
 
-![Alt text](Description/structure.png)
-Here
-![Alt text](Description/structure_benign.png) ![Alt text](Description/structure_malignant.png)
+<p align="center"> <img src="Description/structure.png" alt="Overall Structure" width="600"/> </p>
+
+## Comparison of Benign vs. Malignant Structures
+<p align="center"> <img src="Description/structure_benign.png" alt="Benign Structure" width="45%"/> <img src="Description/structure_malignant.png" alt="Malignant Structure" width="45%"/> </p>
