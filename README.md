@@ -28,4 +28,4 @@ The Breast Cancer project focuses on visualizing and interpreting deep learning 
 - Benign masses have a circular or oval shape, while malignant masses are irregular in shape and contain small, needle-like masses.
 
 ![Alt text](Description/structure.png)
-| ![Alt text](Description/structure_benign.png) | ![Alt text](Description/structure_malignant.png) |
+![Alt text](Description/structure_benign.png) ![Alt text](Description/structure_malignant.png)
